@@ -1,7 +1,7 @@
 # Bursa-Kerja-Online
 Final Project for Thesis
 
-![alt text](https://doc-14-04-docs.googleusercontent.com/docs/securesc/hce7j91d9cpncef6rjvnnjrgdpmb11jv/t8o4ei58pdpjcarvchcapj16u2ciod7v/1576404000000/16586234754456635142/16586234754456635142/1Nbot3EMkqde-SMcASbH27kwwIyIkGqXT?h=15818192224318438593&e=download&authuser=1)
+![alt text](https://raw.githubusercontent.com/Ilhamarl/Bursa-Kerja-Online/master/images/dekstop.png)
 
 This is for Phpmetrics testing
 https://github.com/phpmetrics/PhpMetrics/issues/218#issuecomment-216744617
